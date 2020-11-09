@@ -396,7 +396,7 @@
     name: Tomáš Peterka
     email: peterkatomasek@seznam.cz
     affiliations: 
-      - Masaryk University, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
+      - Masaryk University, Faculty of Science, Department of Botany and Zoology, Kotlářská 2, 611 37, Brno, Czech Republic
   - github: 
     name: Gwendolyn Peyre
     email: gf.peyre@uniandes.edu.co
